@@ -10,10 +10,16 @@ brew "lnav" # log analysis terminal app
 
 cask_args appdir: "/Applications"
 
-# Code applications
+# Coding applications
 cask 'visual-studio-code'
 cask 'visualvm'
 cask 'wireshark'
+cask 'soapui'
+cask 'sequel-pro'
+
+# Architecture apps
+cask 'archi'
+cask 'xmind'
 
 # Web applications
 cask 'google-chrome'
@@ -26,3 +32,6 @@ cask 'turbo-boost-switcher'
 cask 'joinme'
 cask 'viber'
 cask 'slack'
+
+# Other
+cask 'kindle'
