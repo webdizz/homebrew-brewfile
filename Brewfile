@@ -9,6 +9,20 @@ brew "mas" # to install apps from AppStore
 brew "lnav" # log analysis terminal app
 
 cask_args appdir: "/Applications"
+
 # Code applications
-cask 'google-chrome'
 cask 'visual-studio-code'
+cask 'visualvm'
+cask 'wireshark'
+
+# Web applications
+cask 'google-chrome'
+
+# OS apps
+cask 'smcfancontrol'
+cask 'turbo-boost-switcher'
+
+# Communication apps
+cask 'joinme'
+cask 'viber'
+cask 'slack'
