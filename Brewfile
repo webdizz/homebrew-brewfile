@@ -1,3 +1,4 @@
+cask_args appdir: "/Applications"
 
 # Terminal support applications
 brew "wget"
@@ -7,8 +8,7 @@ brew "watch"
 brew "ssh-copy-id"
 brew "mas" # to install apps from AppStore
 brew "lnav" # log analysis terminal app
-
-cask_args appdir: "/Applications"
+cask 'iterm2'
 
 # Coding applications
 cask 'visual-studio-code'
@@ -16,6 +16,7 @@ cask 'visualvm'
 cask 'wireshark'
 cask 'soapui'
 cask 'sequel-pro'
+brew 'vim'
 
 # Architecture apps
 cask 'archi'
