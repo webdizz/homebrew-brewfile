@@ -24,14 +24,24 @@ cask 'xmind'
 # Web applications
 cask 'google-chrome'
 
-# OS apps
+# OSX customisations
 cask 'smcfancontrol'
 cask 'turbo-boost-switcher'
+
+# additional fonts
+tap 'caskroom/fonts'
+cask 'font-inconsolata'
+cask 'font-droid-sans'
+cask 'font-droid-sans-mono'
+cask 'font-droid-serif'
 
 # Communication apps
 cask 'joinme'
 cask 'viber'
 cask 'slack'
+cask 'skype'
+mas "airmail-3", id: 918858936
 
 # Other
 cask 'kindle'
+mas 'Pixelmator', id: 407963104 
