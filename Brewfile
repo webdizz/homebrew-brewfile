@@ -53,6 +53,8 @@ cask 'smcfancontrol'
 cask 'turbo-boost-switcher'
 cask 'karabiner-elements'
 mas 'sysinfo', id: 892050289
+cask 'mattr-slate'
+
 
 # additional fonts
 tap 'caskroom/fonts'
