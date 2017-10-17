@@ -1,13 +1,13 @@
-cask_args appdir: "/Applications"
+cask_args appdir: '/Applications'
 
 # Terminal support applications
-brew "wget"
-brew "tmux"
-brew "mtr"
-brew "watch"
-brew "ssh-copy-id"
-brew "mas" # to install apps from AppStore
-brew "lnav" # log analysis terminal app
+brew 'wget'
+brew 'tmux'
+brew 'mtr'
+brew 'watch'
+brew 'ssh-copy-id'
+brew 'mas' # to install apps from AppStore
+brew 'lnav' # log analysis terminal app
 brew 'pstree'
 cask 'iterm2'
 brew 'zsh'
@@ -55,7 +55,6 @@ cask 'karabiner-elements'
 mas 'sysinfo', id: 892050289
 cask 'mattr-slate'
 
-
 # additional fonts
 tap 'caskroom/fonts'
 cask 'font-inconsolata'
@@ -68,12 +67,17 @@ cask 'joinme'
 cask 'viber'
 cask 'slack'
 cask 'skype'
-mas "airmail-3", id: 918858936
+mas 'airmail-3', id: 918858936
+mas 'mailraider-pro', id: 765096886
 
 # Other
 cask 'kindle'
 mas 'Pixelmator', id: 407963104 
 cask 'djview'
+mas 'simple-mouse-locator', id: 946676425
+mas 'decompressor', id: 1033480833
+mas 'microsoft-remote-desktop-8-0', id: 715768417
+mas 'project-viewer-365', id: 742239147
 
 ## Programming languages
 # Java, Scala is based on sdkman
@@ -83,3 +87,8 @@ brew 'go'
 brew 'erlang'
 brew 'elixir'
 brew 'elm'
+
+# file sharing apps
+mas 'onedrive', id: 823766827
+cask 'dropbox'
+cask 'google-drive-file-stream'
