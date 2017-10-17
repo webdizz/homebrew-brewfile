@@ -11,6 +11,8 @@ brew "lnav" # log analysis terminal app
 brew 'pstree'
 cask 'iterm2'
 brew 'zsh'
+brew 'zsh-completions'
+brew 'ack'
 
 # Coding applications
 cask 'visual-studio-code'
@@ -20,10 +22,14 @@ cask 'soapui'
 cask 'sequel-pro'
 brew 'vim'
 cask 'kdiff3'
+cask 'launchrocket'
+cask 'intellij-idea'
 
 # Cloud related
 brew 'docker'
+brew 'docker-completion'
 brew 'docker-compose'
+brew 'docker-compose-completion'
 brew 'docker-machine-driver-xhyve'
 cask 'minishift'
 brew 'kubernetes-cli'
@@ -32,6 +38,8 @@ brew 'heroku'
 cask 'vagrant'
 brew 'vagrant-completion'
 brew 'packer'
+brew 'packer-completion'
+# cask 'virtualbox'
 
 # Architecture apps
 cask 'archi'
@@ -44,6 +52,7 @@ cask 'google-chrome'
 cask 'smcfancontrol'
 cask 'turbo-boost-switcher'
 cask 'karabiner-elements'
+mas 'sysinfo', id: 892050289
 
 # additional fonts
 tap 'caskroom/fonts'
@@ -63,3 +72,12 @@ mas "airmail-3", id: 918858936
 cask 'kindle'
 mas 'Pixelmator', id: 407963104 
 cask 'djview'
+
+## Programming languages
+# Java, Scala is based on sdkman
+brew 'rust'
+cask 'anaconda'
+brew 'go'
+brew 'erlang'
+brew 'elixir'
+brew 'elm'
