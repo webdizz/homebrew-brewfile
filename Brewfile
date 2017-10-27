@@ -39,7 +39,8 @@ cask 'vagrant'
 brew 'vagrant-completion'
 brew 'packer'
 brew 'packer-completion'
-# cask 'virtualbox'
+cask 'virtualbox'
+cask 'virtualbox-extension-pack'
 
 # Architecture apps
 cask 'archi'
