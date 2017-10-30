@@ -13,6 +13,10 @@ cask 'iterm2'
 brew 'zsh'
 brew 'zsh-completions'
 brew 'ack'
+brew 'htop'
+brew 'libjpeg-turbo'
+brew 'zlib'
+brew 'cmake'
 
 # Coding applications
 cask 'visual-studio-code'
@@ -26,11 +30,10 @@ cask 'launchrocket'
 cask 'intellij-idea'
 
 # Cloud related
-brew 'docker'
+cask 'docker'
 brew 'docker-completion'
 brew 'docker-compose'
 brew 'docker-compose-completion'
-brew 'docker-machine-driver-xhyve'
 cask 'minishift'
 brew 'kubernetes-cli'
 brew 'openshift-cli'
@@ -88,6 +91,7 @@ brew 'go'
 brew 'erlang'
 brew 'elixir'
 brew 'elm'
+brew 'ctags' # necessary for Python
 
 # file sharing apps
 mas 'onedrive', id: 823766827
