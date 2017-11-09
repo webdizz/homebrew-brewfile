@@ -17,6 +17,7 @@ brew 'htop'
 brew 'libjpeg-turbo'
 brew 'zlib'
 brew 'cmake'
+brew 'telnet'
 
 # Coding applications
 cask 'visual-studio-code'
