@@ -18,6 +18,7 @@ brew 'libjpeg-turbo'
 brew 'zlib'
 brew 'cmake'
 brew 'telnet'
+brew 'midnight-commander'
 
 # Coding applications
 cask 'visual-studio-code'
@@ -74,6 +75,7 @@ cask 'slack'
 cask 'skype'
 mas 'airmail-3', id: 918858936
 mas 'mailraider-pro', id: 765096886
+mas 'telegram', id: 747648890
 
 # Other
 cask 'kindle'
