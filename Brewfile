@@ -19,6 +19,7 @@ brew 'zlib'
 brew 'cmake'
 brew 'telnet'
 brew 'midnight-commander'
+brew 'zsh-autosuggestions'
 
 # Coding applications
 cask 'visual-studio-code'
