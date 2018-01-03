@@ -35,7 +35,6 @@ cask 'intellij-idea'
 # Cloud related
 cask 'docker'
 brew 'docker-completion'
-brew 'docker-compose'
 brew 'docker-compose-completion'
 cask 'minishift'
 brew 'kubernetes-cli'
