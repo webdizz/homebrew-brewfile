@@ -20,6 +20,7 @@ brew 'cmake'
 brew 'telnet'
 brew 'midnight-commander'
 brew 'zsh-autosuggestions'
+brew 'p7zip'
 
 # Coding applications
 cask 'visual-studio-code'
