@@ -32,6 +32,7 @@ brew 'vim'
 cask 'kdiff3'
 cask 'launchrocket'
 cask 'intellij-idea'
+brew 'jhipster'
 
 # Cloud related
 cask 'docker'
