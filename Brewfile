@@ -52,6 +52,7 @@ cask 'virtualbox-extension-pack'
 # Architecture apps
 cask 'archi'
 cask 'xmind'
+brew 'graphviz'
 
 # Web applications
 cask 'google-chrome'
