@@ -33,6 +33,7 @@ cask 'kdiff3'
 cask 'launchrocket'
 cask 'intellij-idea'
 brew 'jhipster'
+cask 'jprofiler'
 
 # Cloud related
 cask 'docker'
