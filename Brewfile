@@ -49,7 +49,7 @@ brew 'packer'
 brew 'packer-completion'
 cask 'virtualbox'
 cask 'virtualbox-extension-pack'
-brew 'letsencrypt'
+brew 'certbot'
 
 # Architecture apps
 cask 'archi'
