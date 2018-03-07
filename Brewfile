@@ -66,6 +66,7 @@ cask 'turbo-boost-switcher'
 cask 'karabiner-elements'
 mas 'sysinfo', id: 892050289
 cask 'mattr-slate'
+cask 'etcher'
 
 # additional fonts
 tap 'caskroom/fonts'
