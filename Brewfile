@@ -21,6 +21,7 @@ brew 'telnet'
 brew 'midnight-commander'
 brew 'zsh-autosuggestions'
 brew 'p7zip'
+brew 'wakeonlan'
 
 # Coding applications
 cask 'visual-studio-code'
