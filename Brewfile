@@ -35,6 +35,7 @@ cask 'launchrocket'
 cask 'intellij-idea'
 brew 'jhipster'
 cask 'jprofiler'
+brew 'travis'
 
 # Cloud related
 cask 'docker'
