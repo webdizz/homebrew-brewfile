@@ -36,6 +36,7 @@ cask 'intellij-idea'
 brew 'jhipster'
 cask 'jprofiler'
 brew 'travis'
+cask 'postman'
 
 # Cloud related
 cask 'docker'
