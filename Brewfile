@@ -37,6 +37,7 @@ brew 'jhipster'
 cask 'jprofiler'
 brew 'travis'
 cask 'postman'
+brew 'dnsmasq'
 
 # Cloud related
 cask 'docker'
