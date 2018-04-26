@@ -87,6 +87,7 @@ cask 'skype'
 mas 'airmail-3', id: 918858936
 mas 'mailraider-pro', id: 765096886
 mas 'telegram', id: 747648890
+cask 'microsoft-teams'
 
 # Other
 cask 'kindle'
