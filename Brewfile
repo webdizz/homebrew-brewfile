@@ -23,7 +23,7 @@ brew 'zsh-autosuggestions'
 brew 'p7zip'
 brew 'wakeonlan'
 
-# Coding applications
+# IDEs, software engineering applications
 cask 'visual-studio-code'
 cask 'visualvm'
 cask 'wireshark'
@@ -107,6 +107,7 @@ brew 'erlang'
 brew 'elixir'
 brew 'elm'
 brew 'ctags' # necessary for Python
+brew 'nodenv'
 
 # file sharing apps
 mas 'onedrive', id: 823766827
