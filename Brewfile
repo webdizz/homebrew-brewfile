@@ -38,6 +38,7 @@ cask 'jprofiler'
 brew 'travis'
 cask 'postman'
 brew 'dnsmasq'
+brew 'jmeter'
 
 # Cloud related
 cask 'docker'
@@ -108,6 +109,7 @@ brew 'elixir'
 brew 'elm'
 brew 'ctags' # necessary for Python
 brew 'nodenv'
+brew 'python'
 
 # file sharing apps
 mas 'onedrive', id: 823766827
