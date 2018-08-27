@@ -96,7 +96,7 @@ mas 'Pixelmator', id: 407963104
 cask 'djview'
 mas 'simple-mouse-locator', id: 946676425
 mas 'decompressor', id: 1033480833
-mas 'microsoft-remote-desktop-8-0', id: 715768417
+mas 'microsoft-remote-desktop-10', id: 1295203466
 mas 'project-viewer-365', id: 742239147
 
 ## Programming languages
