@@ -22,6 +22,7 @@ brew 'midnight-commander'
 brew 'zsh-autosuggestions'
 brew 'p7zip'
 brew 'wakeonlan'
+brew 'fswatch'
 
 # IDEs, software engineering applications
 cask 'visual-studio-code'
