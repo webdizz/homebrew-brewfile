@@ -62,6 +62,7 @@ brew 'certbot'
 cask 'archi'
 cask 'xmind'
 brew 'graphviz'
+brew 'adr-tools'
 
 # Web applications
 cask 'google-chrome'
@@ -95,6 +96,7 @@ cask 'microsoft-teams'
 cask 'kindle'
 mas 'Pixelmator', id: 407963104 
 cask 'djview'
+cask 'cyberduck'
 mas 'simple-mouse-locator', id: 946676425
 mas 'decompressor', id: 1033480833
 mas 'microsoft-remote-desktop-10', id: 1295203466
