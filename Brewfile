@@ -97,6 +97,7 @@ cask 'kindle'
 mas 'Pixelmator', id: 407963104 
 cask 'djview'
 cask 'cyberduck'
+cask 'mpv'
 mas 'simple-mouse-locator', id: 946676425
 mas 'decompressor', id: 1033480833
 mas 'microsoft-remote-desktop-10', id: 1295203466
