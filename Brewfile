@@ -57,6 +57,10 @@ brew 'packer-completion'
 cask 'virtualbox'
 cask 'virtualbox-extension-pack'
 brew 'certbot'
+tap 'jenkins-x/jx'
+brew 'jx'
+brew 'terraform'
+brew 'kubernetes-helm'
 
 # Architecture apps
 cask 'archi'
