@@ -23,6 +23,7 @@ brew 'zsh-autosuggestions'
 brew 'p7zip'
 brew 'wakeonlan'
 brew 'fswatch'
+brew 'jq'
 
 # IDEs, software engineering applications
 cask 'visual-studio-code'
