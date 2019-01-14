@@ -41,6 +41,7 @@ brew 'travis'
 cask 'postman'
 brew 'dnsmasq'
 brew 'jmeter'
+cask 'dbvisualizer'
 
 # Cloud related
 cask 'docker'
