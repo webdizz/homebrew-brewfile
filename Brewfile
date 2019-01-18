@@ -63,6 +63,7 @@ tap 'jenkins-x/jx'
 brew 'jx'
 brew 'terraform'
 brew 'kubernetes-helm'
+brew 'awscli'
 
 # Architecture apps
 cask 'archi'
