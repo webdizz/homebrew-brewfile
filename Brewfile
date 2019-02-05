@@ -42,6 +42,10 @@ cask 'postman'
 brew 'dnsmasq'
 brew 'jmeter'
 cask 'dbvisualizer'
+brew 'infer'
+
+# Raspberry
+cask 'sdformatter'
 
 # Cloud related
 cask 'docker'
@@ -59,8 +63,6 @@ brew 'packer-completion'
 cask 'virtualbox'
 cask 'virtualbox-extension-pack'
 brew 'certbot'
-tap 'jenkins-x/jx'
-brew 'jx'
 brew 'terraform'
 brew 'kubernetes-helm'
 brew 'awscli'
