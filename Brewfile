@@ -43,6 +43,7 @@ brew 'dnsmasq'
 brew 'jmeter'
 cask 'dbvisualizer'
 brew 'infer'
+cask 'arduino'
 
 # Raspberry
 cask 'sdformatter'
