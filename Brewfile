@@ -42,9 +42,7 @@ brew 'travis'
 cask 'postman'
 brew 'dnsmasq'
 brew 'jmeter'
-cask 'dbvisualizer'
 brew 'infer'
-cask 'arduino'
 
 # Raspberry
 cask 'sdformatter'
@@ -94,7 +92,6 @@ cask 'font-droid-sans-mono'
 cask 'font-droid-serif'
 
 # Communication apps
-cask 'joinme'
 cask 'viber'
 cask 'slack'
 cask 'skype'
