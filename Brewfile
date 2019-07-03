@@ -55,6 +55,7 @@ cask 'minishift'
 cask 'minikube'
 brew 'kubernetes-cli'
 brew 'openshift-cli'
+tap 'heroku/brew'
 brew 'heroku'
 cask 'vagrant'
 brew 'vagrant-completion'
@@ -82,14 +83,14 @@ cask 'turbo-boost-switcher'
 cask 'karabiner-elements'
 mas 'sysinfo', id: 892050289
 cask 'mattr-slate'
-cask 'etcher'
+cask 'balenaetcher'
 
 # additional fonts
 tap 'caskroom/fonts'
 cask 'font-inconsolata'
-cask 'font-droid-sans'
-cask 'font-droid-sans-mono'
-cask 'font-droid-serif'
+cask 'font-droid-sans-mono-for-powerline'
+cask 'font-droidsansmono-nerd-font'
+cask 'font-droidsansmono-nerd-font-mono'
 
 # Communication apps
 cask 'viber'
@@ -115,7 +116,7 @@ cask 'krisp'
 ## Programming languages
 # Java, Scala is based on sdkman
 brew 'rust'
-cask 'anaconda'
+cask 'miniconda'
 brew 'go'
 brew 'erlang'
 brew 'elixir'
