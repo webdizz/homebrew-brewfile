@@ -24,6 +24,7 @@ brew 'p7zip'
 brew 'wakeonlan'
 brew 'fswatch'
 brew 'jq'
+brew 'pv'
 
 # IDEs, software engineering applications
 cask 'visual-studio-code'
