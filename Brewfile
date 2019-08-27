@@ -130,3 +130,8 @@ brew 'python'
 mas 'onedrive', id: 823766827
 cask 'dropbox'
 cask 'google-drive-file-stream'
+
+# compilation support
+brew 'llvm'
+brew 'boost'
+brew 'hdf5'
