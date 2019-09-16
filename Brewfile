@@ -77,6 +77,8 @@ brew 'adr-tools'
 
 # Web applications
 cask 'google-chrome'
+cask 'firefox'
+cask 'send-to-kindle'
 
 # OSX customisations
 cask 'smcfancontrol'
