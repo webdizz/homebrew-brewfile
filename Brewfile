@@ -25,6 +25,7 @@ brew 'wakeonlan'
 brew 'fswatch'
 brew 'jq'
 brew 'pv'
+brew 'kafkacat'
 
 # IDEs, software engineering applications
 cask 'visual-studio-code'
@@ -68,6 +69,7 @@ brew 'certbot'
 brew 'terraform'
 brew 'kubernetes-helm'
 brew 'awscli'
+brew 'azure-cli'
 
 # Architecture apps
 cask 'archi'
