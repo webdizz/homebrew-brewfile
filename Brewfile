@@ -94,8 +94,8 @@ cask 'balenaetcher'
 tap 'caskroom/fonts'
 cask 'font-inconsolata'
 cask 'font-droid-sans-mono-for-powerline'
-cask 'font-droidsansmono-nerd-font'
 cask 'font-droidsansmono-nerd-font-mono'
+cask 'font-jetbrainsmono-nerd-font'
 
 # Communication apps
 cask 'viber'
