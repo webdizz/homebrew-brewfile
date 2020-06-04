@@ -32,6 +32,7 @@ cask 'visual-studio-code'
 cask 'visualvm'
 cask 'wireshark'
 cask 'soapui'
+cask 'adoptopenjdk'
 cask 'dbeaver-community'
 brew 'mysql-client'
 brew 'vim'
@@ -70,6 +71,7 @@ brew 'terraform'
 brew 'kubernetes-helm'
 brew 'awscli'
 brew 'azure-cli'
+cask 'microsoft-azure-storage-explorer'
 
 # Architecture apps
 cask 'archi'
@@ -117,6 +119,7 @@ mas 'decompressor', id: 1033480833
 mas 'microsoft-remote-desktop-10', id: 1295203466
 mas 'project-viewer-365', id: 742239147
 cask 'krisp'
+cask 'avast-security'
 
 ## Programming languages
 # Java, Scala is based on sdkman
