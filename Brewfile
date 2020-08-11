@@ -26,6 +26,7 @@ brew 'fswatch'
 brew 'jq'
 brew 'pv'
 brew 'kafkacat'
+brew 'httpie'
 
 # IDEs, software engineering applications
 cask 'visual-studio-code'
@@ -46,6 +47,7 @@ cask 'postman'
 brew 'dnsmasq'
 brew 'jmeter'
 brew 'infer'
+cask 'camunda-modeler'
 
 # Raspberry
 cask 'sdformatter'
@@ -72,6 +74,7 @@ brew 'kubernetes-helm'
 brew 'awscli'
 brew 'azure-cli'
 cask 'microsoft-azure-storage-explorer'
+cask 'google-cloud-sdk'
 
 # Architecture apps
 cask 'archi'
