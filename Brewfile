@@ -92,7 +92,7 @@ cask 'smcfancontrol'
 cask 'turbo-boost-switcher'
 cask 'karabiner-elements'
 mas 'sysinfo', id: 892050289
-cask 'mattr-slate'
+cask 'hammerspoon'
 cask 'balenaetcher'
 
 # additional fonts
