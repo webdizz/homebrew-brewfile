@@ -48,6 +48,7 @@ brew 'dnsmasq'
 brew 'jmeter'
 brew 'infer'
 cask 'camunda-modeler'
+cask 'ngrok' # Reverse proxy, secure introspectable tunnels to localhost
 
 # Raspberry
 cask 'sdformatter'
@@ -91,11 +92,12 @@ cask 'send-to-kindle'
 cask 'smcfancontrol'
 cask 'turbo-boost-switcher'
 cask 'karabiner-elements'
-mas 'sysinfo', id: 892050289
+mas 'cpu-led', id: 448189857
 cask 'hammerspoon'
 cask 'balenaetcher'
 
 # additional fonts
+tap 'homebrew/cask-fonts'
 cask 'font-inconsolata'
 cask 'font-droid-sans-mono-for-powerline'
 cask 'font-droidsansmono-nerd-font-mono'
@@ -120,7 +122,6 @@ mas 'simple-mouse-locator', id: 946676425
 mas 'decompressor', id: 1033480833
 mas 'microsoft-remote-desktop-10', id: 1295203466
 mas 'project-viewer-365', id: 742239147
-cask 'krisp'
 cask 'avast-security'
 
 ## Programming languages
