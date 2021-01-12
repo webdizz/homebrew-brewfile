@@ -32,7 +32,6 @@ brew 'httpie'
 cask 'visual-studio-code'
 cask 'visualvm'
 cask 'wireshark'
-cask 'soapui'
 cask 'adoptopenjdk'
 cask 'dbeaver-community'
 brew 'mysql-client'
@@ -47,7 +46,6 @@ cask 'postman'
 brew 'dnsmasq'
 brew 'jmeter'
 brew 'infer'
-cask 'camunda-modeler'
 cask 'ngrok' # Reverse proxy, secure introspectable tunnels to localhost
 
 # Raspberry
@@ -107,7 +105,6 @@ cask 'font-jetbrainsmono-nerd-font'
 cask 'viber'
 cask 'slack'
 cask 'skype'
-mas 'airmail-3', id: 918858936
 mas 'mailraider-pro', id: 765096886
 mas 'telegram', id: 747648890
 cask 'microsoft-teams'
