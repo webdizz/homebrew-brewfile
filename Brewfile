@@ -80,6 +80,7 @@ cask 'archi'
 cask 'xmind'
 brew 'graphviz'
 brew 'adr-tools'
+cask 'drawio'
 
 # Web applications
 cask 'google-chrome'
@@ -97,9 +98,6 @@ cask 'balenaetcher'
 # additional fonts
 tap 'homebrew/cask-fonts'
 cask 'font-inconsolata'
-cask 'font-droid-sans-mono-for-powerline'
-cask 'font-droidsansmono-nerd-font-mono'
-cask 'font-jetbrainsmono-nerd-font'
 
 # Communication apps
 cask 'viber'
@@ -119,7 +117,6 @@ mas 'simple-mouse-locator', id: 946676425
 mas 'decompressor', id: 1033480833
 mas 'microsoft-remote-desktop-10', id: 1295203466
 mas 'project-viewer-365', id: 742239147
-cask 'avast-security'
 
 ## Programming languages
 # Java, Scala is based on sdkman
