@@ -74,6 +74,8 @@ brew 'awscli'
 brew 'azure-cli'
 cask 'microsoft-azure-storage-explorer'
 cask 'google-cloud-sdk'
+tap 'azure/functions'
+brew 'azure/functions/azure-functions-core-tools@3'
 
 # Architecture apps
 cask 'archi'
