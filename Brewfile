@@ -75,6 +75,7 @@ cask 'microsoft-azure-storage-explorer'
 cask 'google-cloud-sdk'
 tap 'azure/functions'
 brew 'azure/functions/azure-functions-core-tools@3'
+brew 'firebase-cli'
 
 # Architecture apps
 cask 'archi'
@@ -107,6 +108,7 @@ cask 'skype'
 mas 'mailraider-pro', id: 765096886
 mas 'telegram', id: 747648890
 cask 'microsoft-teams'
+cask 'whatsapp'
 
 # Other
 cask 'kindle'
@@ -135,7 +137,7 @@ brew 'python'
 # file sharing apps
 mas 'onedrive', id: 823766827
 cask 'dropbox'
-cask 'google-drive-file-stream'
+cask 'google-drive'
 
 # compilation support
 brew 'llvm'
