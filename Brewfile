@@ -74,7 +74,7 @@ brew 'azure-cli'
 cask 'microsoft-azure-storage-explorer'
 cask 'google-cloud-sdk'
 tap 'azure/functions'
-brew 'azure/functions/azure-functions-core-tools@3'
+brew 'azure/functions/azure-functions-core-tools@4'
 brew 'firebase-cli'
 
 # Architecture apps
@@ -121,6 +121,7 @@ mas 'decompressor', id: 1033480833
 mas 'microsoft-remote-desktop-10', id: 1295203466
 mas 'project-viewer-365', id: 742239147
 cask 'stellarium'
+cask 'the-unarchiver'
 
 ## Programming languages
 # Java, Scala is based on sdkman
