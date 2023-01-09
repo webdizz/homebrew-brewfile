@@ -137,7 +137,6 @@ brew 'nodenv'
 brew 'python'
 
 # file sharing apps
-mas 'onedrive', id: 823766827
 cask 'dropbox'
 cask 'google-drive'
 
