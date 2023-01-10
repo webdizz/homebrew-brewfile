@@ -30,6 +30,7 @@ brew 'httpie'
 
 # IDEs, software engineering applications
 cask 'visual-studio-code'
+cask 'visual-studio'
 cask 'visualvm'
 cask 'wireshark'
 cask 'temurin'
@@ -87,7 +88,6 @@ cask 'drawio'
 
 # Web applications
 cask 'google-chrome'
-cask 'firefox'
 cask 'send-to-kindle'
 
 # OSX customisations
