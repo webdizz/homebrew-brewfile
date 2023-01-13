@@ -133,7 +133,7 @@ brew 'erlang'
 brew 'elixir'
 brew 'elm'
 brew 'ctags' # necessary for Python
-brew 'nodenv'
+brew 'nodenv' # JavaScript toolchain manager
 brew 'python'
 
 # file sharing apps
