@@ -101,6 +101,9 @@ cask 'balenaetcher'
 # additional fonts
 tap 'homebrew/cask-fonts'
 cask 'font-inconsolata'
+cask 'font-roboto-slab'
+cask 'font-roboto'
+cask 'font-roboto-serif'
 
 # Communication apps
 cask 'viber'
