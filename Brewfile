@@ -138,6 +138,7 @@ brew 'elm'
 brew 'ctags' # necessary for Python
 brew 'nodenv' # JavaScript toolchain manager
 brew 'python'
+brew 'dotnet@6'
 
 # file sharing apps
 cask 'dropbox'
