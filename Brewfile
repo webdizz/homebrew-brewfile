@@ -27,10 +27,12 @@ brew 'jq'
 brew 'pv'
 brew 'kcat'
 brew 'httpie'
+brew 'hey'
+brew 'terragrunt'
+brew 'gh'
 
 # IDEs, software engineering applications
 cask 'visual-studio-code'
-cask 'visual-studio'
 cask 'visualvm'
 cask 'wireshark'
 cask 'temurin'
@@ -78,6 +80,7 @@ cask 'google-cloud-sdk'
 tap 'azure/functions'
 brew 'azure/functions/azure-functions-core-tools@4'
 brew 'firebase-cli'
+brew 'eksctl'
 
 # Architecture apps
 # cask 'archi'
@@ -138,6 +141,7 @@ brew 'elm'
 brew 'ctags' # necessary for Python
 brew 'nodenv' # JavaScript toolchain manager
 brew 'python'
+cask 'dotnet-sdk'
 brew 'dotnet@6'
 
 # file sharing apps
@@ -148,3 +152,8 @@ cask 'google-drive'
 brew 'llvm'
 brew 'boost'
 brew 'hdf5'
+
+## MS SQL
+tap 'microsoft/mssql-release'
+brew 'msodbcsql18' 
+brew 'mssql-tools18'
