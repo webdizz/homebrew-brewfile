@@ -30,6 +30,7 @@ brew 'httpie'
 brew 'hey'
 brew 'terragrunt'
 brew 'gh'
+brew 'ansible'
 
 # IDEs, software engineering applications
 cask 'visual-studio-code'
@@ -81,6 +82,8 @@ tap 'azure/functions'
 brew 'azure/functions/azure-functions-core-tools@4'
 brew 'firebase-cli'
 brew 'eksctl'
+tap 'supabase/tap'
+brew 'supabase/tap/supabase'
 
 # Architecture apps
 # cask 'archi'
