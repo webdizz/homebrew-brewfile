@@ -31,6 +31,7 @@ brew 'hey'
 brew 'terragrunt'
 brew 'gh'
 brew 'ansible'
+brew 'cdktf'
 
 # IDEs, software engineering applications
 cask 'visual-studio-code'
