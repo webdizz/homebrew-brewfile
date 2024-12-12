@@ -31,7 +31,14 @@ brew 'hey'
 brew 'terragrunt'
 brew 'gh'
 brew 'ansible'
-brew 'cdktf'
+brew 'ffmpeg'
+brew 'wrk'
+brew 'stripe/stripe-cli/stripe'
+brew 'k6'
+brew 'azcopy'
+brew 'libpq'
+brew 'cloudflared'
+
 
 # IDEs, software engineering applications
 cask 'visual-studio-code'
@@ -41,7 +48,6 @@ cask 'temurin'
 cask 'dbeaver-community'
 brew 'mysql-client'
 brew 'vim'
-cask 'kdiff3'
 cask 'launchrocket'
 cask 'intellij-idea'
 brew 'jhipster'
@@ -49,8 +55,6 @@ brew 'travis'
 cask 'postman'
 brew 'dnsmasq'
 brew 'jmeter'
-brew 'infer'
-cask 'ngrok' # Reverse proxy, secure introspectable tunnels to localhost
 brew 'iredis'
 
 # Raspberry
@@ -59,7 +63,6 @@ cask 'sdformatter'
 # Cloud related
 cask 'docker'
 brew 'docker-completion'
-# brew 'docker-compose-completion'
 cask 'minishift'
 brew 'minikube'
 brew 'kubernetes-cli'
@@ -70,8 +73,6 @@ cask 'vagrant'
 brew 'vagrant-completion'
 brew 'packer'
 brew 'packer-completion'
-# cask 'virtualbox'
-# cask 'virtualbox-extension-pack'
 brew 'certbot'
 brew 'terraform'
 brew 'helm'
@@ -99,7 +100,6 @@ cask 'send-to-kindle'
 
 # OSX customisations
 cask 'smcfancontrol'
-cask 'turbo-boost-switcher'
 cask 'karabiner-elements'
 mas 'cpu-led', id: 448189857
 cask 'hammerspoon'
@@ -141,15 +141,12 @@ cask 'miniconda'
 brew 'go'
 brew 'erlang'
 brew 'elixir'
-brew 'elm'
 brew 'ctags' # necessary for Python
 brew 'nodenv' # JavaScript toolchain manager
 brew 'python'
-cask 'dotnet-sdk'
-brew 'dotnet@6'
+brew 'clojure'
 
 # file sharing apps
-cask 'dropbox'
 cask 'google-drive'
 
 # compilation support
